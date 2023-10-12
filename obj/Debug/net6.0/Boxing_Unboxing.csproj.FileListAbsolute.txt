@@ -1,0 +1,15 @@
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\bin\Debug\net6.0\Boxing_Unboxing.exe
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\bin\Debug\net6.0\Boxing_Unboxing.deps.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\bin\Debug\net6.0\Boxing_Unboxing.runtimeconfig.json
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\bin\Debug\net6.0\Boxing_Unboxing.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\bin\Debug\net6.0\Boxing_Unboxing.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.csproj.AssemblyReference.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.AssemblyInfoInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.AssemblyInfo.cs
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.csproj.CoreCompileInputs.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\refint\Boxing_Unboxing.dll
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.pdb
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\Boxing_Unboxing.genruntimeconfig.cache
+D:\Rodrigo\Bootcamp Sonda\C#-.Net\practicas\C#.Net\Boxing_Unboxing\obj\Debug\net6.0\ref\Boxing_Unboxing.dll
