@@ -1,6 +1,4 @@
 ﻿// Crear una lista vacía de tipo objeto
-using System.ComponentModel;
-
 List<object> objetos = new List<object>();
 
 // Agregue los siguientes valores a la lista: 7, 28, -1, true, "chair"
